@@ -3,7 +3,7 @@
 [link to dashboard](https://public.tableau.com/app/profile/kimberly.mangonon/viz/NYCBikeSharingAnalysis_16314180792960/Deliverable3Story?publish=yes)
 
 ## Overview:
-  # An analysis of New York Citi Bike Sharing Data in August 2019 with data visualization to show if bike sharing business will be successful.
+ An analysis of New York Citi Bike Sharing Data in August 2019 with data visualization to show if bike sharing business will be successful.
   
  
 
