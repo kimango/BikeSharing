@@ -5,3 +5,5 @@
 ## Overview of the analysis: Explain the purpose of this analysis.
 ## Results: Using the visualizations you have in your Tableau Story, describe the results of each visualization underneath the image.
 ## Summary: Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset.
+
+Format: ![Trips By Weekday per Hour](https://github.com/kimango/BikeSharing/blob/main/trips%20heatmap%20by%20hour.PNG)
