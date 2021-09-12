@@ -13,7 +13,12 @@
 
 ![User Trips by Gender by Weekday](https://github.com/kimango/BikeSharing/blob/main/heatmap%20by%20gender%20for%20each%20week.PNG)
 
-![User Trips by Gender by Weekday](https://github.com/kimango/BikeSharing/blob/main/heatmap%20by%20gender%20for%20each%20week.PNG)
+![User Trips by Gender by Weekday per Hour](https://github.com/kimango/BikeSharing/blob/main/Trips%20by%20Gender%20heatmap.PNG)
+
+![Checkout time duration all users](https://github.com/kimango/BikeSharing/blob/main/Checkout%20time%20duration%20all%20users.PNG)
+
+![Checkout time By Gender](https://github.com/kimango/BikeSharing/blob/main/Checkout%20time%20Gender.PNG)
+
 
 
 
